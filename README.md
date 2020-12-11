@@ -11,7 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Sarper Tutuncuoglu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sarpertutuncuoglu/)
-[<img align="left" alt="Sarper Tutuncuoglu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/sarpertutuncuoglu/)
-[<img align="left" alt="Sarper Tutuncuoglu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/sarper.tutuncuoglu/)
+[<img align="left" alt="Sarper Tutuncuoglu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sarpertutuncuoglu/)
+[<img align="left" alt="Sarper Tutuncuoglu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/sarper.tutuncuoglu/)
+[<img align="left" alt="Sarper Tutuncuoglu | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />](https://www.goodreads.com/user/show/58409772-sarper)
 
+### Languages and Tools
 
