@@ -19,23 +19,23 @@
 
 ### Languages and Tools
 <div>
-<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />(https://www.python.org/)
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />](https://www.cplusplus.com/)
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />](https://www.javascript.com/)
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org/)
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />](https://www.java.com/en/)
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<a href="https://golang.org/" target="_blank"><img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png" />
+<a href="https://www.java.com/en/" target="_blank"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </div>
 </br>
 <div>
-[<img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />](https://www.mongodb.com/1)
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 </div>
 </br>
-[<img align="left" alt="Svelte" width="26px" src="https://img.icons8.com/doodle/48/000000/svetle.png" />](https://svelte.dev/)
-[<img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/16/000000/react.png" />](https://reactjs.org/)
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/16/000000/html-5.png" />](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />](https://en.wikipedia.org/wiki/CSS)
+<a href="https://svelte.dev/" target="_blank"><img align="left" alt="Svelte" width="26px" src="https://img.icons8.com/doodle/48/000000/svetle.png" />
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/16/000000/react.png" />
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/143/143655.svg" />
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 [<img align="left" alt="" width="26px" src="" />]()
 [<img align="left" alt="" width="26px" src="" />]()
