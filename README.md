@@ -18,16 +18,19 @@
 </br>
 
 ### Languages and Tools
-
+<div>
 [<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />](https://www.python.org/)
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />](https://www.cplusplus.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png" />](https://golang.org/)
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />](https://www.java.com/en/)
+</div>
 </br>
+<div>
 [<img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />](https://www.mongodb.com/1)
+</div>
 </br>
 [<img align="left" alt="Svelte" width="26px" src="https://img.icons8.com/doodle/48/000000/svetle.png" />](https://svelte.dev/)
 [<img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/16/000000/react.png" />](https://reactjs.org/)
