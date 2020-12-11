@@ -19,7 +19,7 @@
 
 ### Languages and Tools
 <div>
-<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" href="https://www.python.org/"/>
+<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" />(https://www.python.org/)
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />](https://www.cplusplus.com/)
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />](https://www.javascript.com/)
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
