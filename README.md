@@ -18,7 +18,7 @@
 </br>
 
 ### Languages and Tools
-<div>
+
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" /></a>
@@ -41,7 +41,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="26px" src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2" /></a>
 
 </br>
----
+------
 
 <details>
   <summary>📈 GitHub Stats</summary>
